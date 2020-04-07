@@ -1,0 +1,17 @@
+/* Fonts */
+/* Roboto */
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+/* Roboto Slab */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+/* Ubuntu */
+@import url("https://fonts.googleapis.com/css?family=Ubuntu&display=swap");
+
+/*Common styles*/
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+}
